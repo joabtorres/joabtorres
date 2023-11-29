@@ -3,7 +3,7 @@
 
 👨‍💻 Sou Apaixonado por Tecnologia da Informação (TI), procuro está sempre preparado para novos desafios no mercado de trabalho, atuo tanto na área da docência quanto na área empresarial, principalmente no setor de desenvolvimento de softwares utilizando as linguagens HTML, CSS, JavaScript, PHP, Kotlin, Java, banco de dados SQL (MySQL) e NoSQL (MongoDB), através de frameworks como Boostrap, NodeJS, e Laravel. Entretanto, trabalho também com: Coordenação de equipe técnica; Validação de funcionalidades e usabilidades de softwares; Manutenção em computadores; Infraestrutura de rede; e Ministro aulas e palestras relacionadas à Tecnologia da Informação (TI).
 
-🌱 Atualmente estudo tanto back-end quanto mobile, no back-end estudo `NodeJS & Express` e `Laravel`, já no mobile estudo `Kotlin` e `Java`.
+🌱 Atualmente estudo tanto back-end quanto mobile, no back-end estudo `NodeJS & Express e TypeScript` e `PHP & Laravel`, já no mobile estudo `Kotlin` e `Java`.
 
 <a href="https://github.com/joabtorres/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joabtorres&show_icons=true&theme=tokyonight" />
