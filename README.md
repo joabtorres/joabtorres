@@ -1,9 +1,9 @@
 ### Olá, meu nome é Joab Torres Alencar, sou desenvolvedor full-stack!
 👨‍🎓 Formação Acadêmica: `Mestre em Desenvolvimento Rural e Gestão de Empreendimentos Agroalimentares`; `Especialista em Docência do Ensino Superior e Metodologias Ativas de Aprendizado;`, `Especialista em Tecnologias para Aplicações Web`; `Tecnólogo em Análise e Desenvolvimento de Sistema`.
 
-👨‍💻 Sou Apaixonado por Tecnologia da Informação (TI), procuro está sempre preparado para novos desafios no mercado de trabalho, atuo tanto na área da docência quanto na área empresarial, principalmente no setor de desenvolvimento de softwares utilizando as linguagens HTML, CSS, JavaScript, PHP, Kotlin, Java, banco de dados SQL (MySQL) e NoSQL (MongoDB), através de frameworks como Boostrap, NodeJS, e Laravel. Entretanto, trabalho também com: Coordenação de equipe técnica; Validação de funcionalidades e usabilidades de softwares; Manutenção em computadores; Infraestrutura de rede; e Ministro aulas e palestras relacionadas à Tecnologia da Informação (TI).
+👨‍💻 Sou apaixonado por Tecnologia da Informação (TI) e busco estar sempre preparado para novos desafios no mercado de trabalho. Atuo tanto na área da docência quanto na área empresarial, especialmente no setor de desenvolvimento de softwares. Utilizo linguagens como HTML, CSS, JavaScript, PHP, Kotlin e Java, e tenho experiência com bancos de dados SQL (MySQL) e NoSQL (MongoDB). Trabalho com frameworks como Bootstrap, NodeJS e Laravel. Além disso, realizo atividades como coordenação de equipe técnica, validação de funcionalidades e usabilidades de softwares, manutenção em computadores, infraestrutura de rede, e ministro aulas e palestras relacionadas à Tecnologia da Informação (TI)..
 
-🌱 Atualmente estudo tanto back-end quanto mobile, no back-end estudo `PHP, Framework Laravel e TypeScript com NodeJS`, já no mobile estudo `Kotlin e Java`.
+🌱 Atualmente estudo tanto web quanto mobile, na web estudo `PHP, Framework Laravel e Vue.js`, já no mobile estudo `Kotlin e Java`.
 
 <a href="https://github.com/joabtorres/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joabtorres&show_icons=true&theme=tokyonight" />
