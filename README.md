@@ -1,9 +1,13 @@
-### Olá, meu nome é Joab Torres Alencar, sou desenvolvedor full-stack!
-👨‍🎓 Formação Acadêmica: `Mestre em Desenvolvimento Rural e Gestão de Empreendimentos Agroalimentares`; `Especialista em Docência do Ensino Superior e Metodologias Ativas de Aprendizado;`, `Especialista em Tecnologias para Aplicações Web`; `Tecnólogo em Análise e Desenvolvimento de Sistema`.
+### Olá, meu nome é Joab Torres Alencar, sou professor EBTT!
+👨‍🎓 Formação Acadêmica: `Mestre em Desenvolvimento Rural e Gestão de Empreendimentos Agroalimentares`; `Especialista em Engenharia de Software`; `Especialista em Docência do Ensino Superior e Metodologias Ativas de Aprendizado;`, `Especialista em Tecnologias para Aplicações Web`; `Tecnólogo em Análise e Desenvolvimento de Sistema`.
 
-👨‍💻 Sou apaixonado por Tecnologia da Informação (TI) e busco estar sempre preparado para novos desafios no mercado de trabalho. Atuo tanto na área da docência quanto na área empresarial, especialmente no setor de desenvolvimento de softwares. Utilizo linguagens como HTML, CSS, JavaScript, PHP, Kotlin e Java, e tenho experiência com bancos de dados SQL (MySQL) e NoSQL (MongoDB). Trabalho com frameworks como Bootstrap, NodeJS e Laravel. Além disso, realizo atividades como coordenação de equipe técnica, validação de funcionalidades e usabilidades de softwares, manutenção em computadores, infraestrutura de rede, e ministro aulas e palestras relacionadas à Tecnologia da Informação (TI)..
+👨‍💻 Sou apaixonado por Tecnologia da Informação (TI) e busco estar sempre preparado para novos desafios. já atue tanto na área empresarial quanto na área da docência, hoje, atuo exclusivamente na docência como Professor do Ensino Básico, Técnico e Tecnológico (EBTT), com experiência nas áreas de desenvolvimento de software, gestão de tecnologia da informação, suporte técnico e administração de sistemas. Desenvolvo atividades de ensino, pesquisa e extensão na área de Informática, contribuindo para a formação técnica e profissional de estudantes. possuo interesse em Engenharia de Software, Desenvolvimento Web, Banco de Dados, Governança de TI, Tecnologias Educacionais e Educação Profissional e Tecnológica. Busco continuamente o aprimoramento acadêmico e profissional por meio de capacitações, projetos de pesquisa, extensão e inovação tecnológica.
 
-🌱 Atualmente estudo tanto web quanto mobile, na web estudo `PHP, Framework Laravel e Vue.js`, já no mobile estudo `Kotlin e Java`.
+🌱 Atualmente estudo é trabalho com as seguintes tecnologias:
+- Na web `PHP com Framework Laravel` `JavaScript com Node, React , Vue.js e NextJS`;
+- No mobile `Kotlin e Java`;
+- Na Engenharia de Software `Metodologias de desenvolmento, testes, documentação e registro`;
+- Além de ministrar disciplinas de Redes de Computadores, Sistema Operacionais; IHC; e Manutenção de Computadores;
 
 <a href="https://github.com/joabtorres/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joabtorres&show_icons=true&theme=tokyonight" />
